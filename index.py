@@ -35,5 +35,5 @@ if uploaded_image is not None:
 
         loaded_image = np.array(Image.open(image_path))
         similar_images.append(loaded_image)
-
+    st.text("Similar images fetched from the Vector Database")
     st.image(similar_images, width=200)

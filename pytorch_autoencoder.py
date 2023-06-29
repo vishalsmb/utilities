@@ -57,4 +57,4 @@ with torch.no_grad():
         outputs = model(images)
         break
 
-torch.save(model.state_dict(), "model.pt")
+torch.save(model.state_dict(), "autoencoder.pt")
