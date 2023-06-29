@@ -1,4 +1,4 @@
-[mnist demo.webm](https://github.com/vishalsmb/vector-image-search-mnist/assets/30661709/fadd38fc-db5d-42ad-9da7-48cd890ab3e8)# vector-image-search-mnist
+# vector-image-search-mnist
 This code repo illustrates the power of image search using vector databases and embeddings.
 The steps involved are as follows.
 1. Download the mnist dataset
