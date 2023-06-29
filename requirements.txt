@@ -1,0 +1,7 @@
+torch
+numpy
+streamlit
+pinecone-client
+torchvision
+tqdm
+pillow
