@@ -1,4 +1,4 @@
-# vector-image-search-mnist
+[mnist demo.webm](https://github.com/vishalsmb/vector-image-search-mnist/assets/30661709/fadd38fc-db5d-42ad-9da7-48cd890ab3e8)# vector-image-search-mnist
 This code repo illustrates the power of image search using vector databases and embeddings.
 The steps involved are as follows.
 1. Download the mnist dataset
@@ -33,3 +33,5 @@ to index and search efficiently among millions of images.
 
 Streamlit app URL : https://vector-image-search-mnist-kk1rhwtgl8.streamlit.app/
 Usage: Input any mnist image and similar ones would be fetched
+
+[mnist demo.webm](https://github.com/vishalsmb/vector-image-search-mnist/assets/30661709/7277da7f-46b8-448b-8b25-f2eeff6702f4)
