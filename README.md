@@ -32,3 +32,4 @@ databases for smaller search spaces (like in the case of MNIST, 60K images), thi
 to index and search efficiently among millions of images.
 
 Streamlit app URL : https://vector-image-search-mnist-kk1rhwtgl8.streamlit.app/
+Usage: Input any mnist image and similar ones would be fetched
